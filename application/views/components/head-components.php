@@ -8,7 +8,4 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body>
-
-
-    <h1 class="h-1/3"></h1>
+<body class="overflow-x-hidden">

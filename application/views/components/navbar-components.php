@@ -1,4 +1,4 @@
-<nav class="flex items-center justify-between p-5 text-[#16b3ac]">
+<nav class="flex items-center justify-between p-5 fixed text-[#16b3ac] bg-white w-screen z-50">
     <div class="flex items-center gap-2">
         <img src='assets/img/logo.png' class="h-14" alt="">
         <h1 class="font-semibold">TECHNO MEDIC</h1>
@@ -21,7 +21,7 @@
     </div>
 
 
-    <div>
+    <div class="z-30">
         <label for="my-drawer-4" class="navbar-end lg:hidden">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                 class="inline-block h-5 w-5 stroke-current">
@@ -38,7 +38,7 @@
 </nav>
 
 
-<div class="drawer drawer-end">
+<div class="drawer drawer-end z-[51]">
     <input id="my-drawer-4" type="checkbox" class="drawer-toggle" />
     <div class="drawer-content">
         <!-- Page content here -->

@@ -10,6 +10,8 @@
 <body class="">
     <?php
     $this->load->view('components/hero-components');
+    $this->load->view('components/informasi-components');
+    $this->load->view('components/layanan-components');
     ?>
 </body>
 
