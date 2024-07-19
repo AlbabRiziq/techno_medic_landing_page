@@ -12,6 +12,8 @@
     $this->load->view('components/hero-components');
     $this->load->view('components/informasi-components');
     $this->load->view('components/layanan-components');
+    $this->load->view('components/simrs-components');
+    $this->load->view('components/contact-components');
     ?>
 </body>
 
