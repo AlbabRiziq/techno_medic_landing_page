@@ -1,10 +1,10 @@
-<div class=" bg-[#E3E3E3] flex items-center justify-center w-screen">
+<div class=" bg-[#E3E3E3] flex items-center justify-center w-screen ">
     <div class="container">
         <br><br>
-        <h1 class="text-3xl font-bold text-center lg:text-left">PT. INDO <span class="text-[#16b3ac]">TECHNO
+        <h1 class="text-3xl font-bold text-center p-5 lg:text-left">PT. INDO <span class="text-[#16b3ac]">TECHNO
                 MEDIC</span>
         </h1>
-        <p class="text-center mt-4 lg:text-left">PT. Indo Techno Medic adalah perusahaan yang bergerak dibidang
+        <p class="text-center mt-4 lg:text-left p-5">PT. Indo Techno Medic adalah perusahaan yang bergerak dibidang
             Perdagangan
             Barang / Jasa
             khususnya dalam
@@ -19,7 +19,7 @@
                 <h3 class="font-bold mt-5">RUMAH SAKIT NEGERI / SWASTA</h3>
             </div>
             <div class="card py-10 w-40">
-                <span class="text-5xl lg:text-7xl font-bold">17+</span>
+                <span class="text-5xl lg:text-7xl font-bold">50+</span>
                 <h3 class="font-bold mt-5">KELENGKAPAN MODUL</h3>
             </div>
             <div class="card py-10 w-40">

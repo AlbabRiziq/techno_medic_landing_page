@@ -14,6 +14,8 @@
     $this->load->view('components/layanan-components');
     $this->load->view('components/simrs-components');
     $this->load->view('components/contact-components');
+    $this->load->view('components/footer-components');
+
     ?>
 </body>
 
