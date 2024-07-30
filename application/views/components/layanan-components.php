@@ -16,6 +16,26 @@
             <p class="uppercase w-56">Sistem Informasi Manajemen Rumah Sakit
                 (SIMRS)</p>
         </div>
+        <div class="card p-10 text-center shadow-2xl">
+            <img src="./assets/img/icon/komputer.svg" class="mb-5 h-28" alt="">
+            <p class="uppercase w-56">Sistem Informasi Manajemen Rumah Sakit
+                (SIMRS)</p>
+        </div>
+        <div class="card p-10 text-center shadow-2xl">
+            <img src="./assets/img/icon/komputer.svg" class="mb-5 h-28" alt="">
+            <p class="uppercase w-56">Sistem Informasi Manajemen Rumah Sakit
+                (SIMRS)</p>
+        </div>
+        <div class="card p-10 text-center shadow-2xl">
+            <img src="./assets/img/icon/komputer.svg" class="mb-5 h-28" alt="">
+            <p class="uppercase w-56">Sistem Informasi Manajemen Rumah Sakit
+                (SIMRS)</p>
+        </div>
+        <div class="card p-10 text-center shadow-2xl">
+            <img src="./assets/img/icon/komputer.svg" class="mb-5 h-28" alt="">
+            <p class="uppercase w-56">Sistem Informasi Manajemen Rumah Sakit
+                (SIMRS)</p>
+        </div>
     </div>
     <br><br><br>
 </div>

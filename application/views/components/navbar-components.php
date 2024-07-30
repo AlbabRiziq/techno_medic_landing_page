@@ -1,15 +1,17 @@
 <nav class="flex items-center justify-between p-5 fixed text-[#16b3ac] bg-white w-screen z-50">
-    <div class="flex items-center gap-2">
-        <img src='assets/img/logo.png' class="h-14" alt="">
-        <h1 class="font-semibold">TECHNO MEDIC</h1>
-    </div>
+    <a href="<?= base_url() ?>">
+        <div class="flex items-center gap-2">
+            <img src='assets/img/logo.png' class="h-14" alt="">
+            <h1 class="font-semibold">TECHNO MEDIC</h1>
+        </div>
+    </a>
     <div class="hidden lg:flex">
         <ul class="flex gap-5 ml-10">
             <li>
-                <a href="#">HOME</a>
+                <a href="<?= base_url() ?>">HOME</a>
             </li>
             <li>
-                <a href="#">LOWONGAN</a>
+                <a href="<?= base_url("lowongan") ?>">LOWONGAN</a>
             </li>
             <li>
                 <a href="#">TENTANG KAMI</a>
